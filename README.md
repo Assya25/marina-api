@@ -33,4 +33,4 @@ Pour démarrer le serveur de développement, utiliser la commande suivante :
 - EJS
 
 ## Documentation
-La documentation manuelle de l’API est disponible dans le fichier `API.md`.
+La documentation manuelle de l’API est disponible dans le fichier `api.md`.
